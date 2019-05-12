@@ -1,0 +1,10 @@
+com\lendico\borrowers\repayment\config\JerseyConfig.class
+com\lendico\borrowers\repayment\model\Plan$1.class
+com\lendico\borrowers\repayment\model\Plan.class
+com\lendico\borrowers\repayment\exception\GenerationException.class
+com\lendico\borrowers\repayment\resource\RepaymentResource.class
+com\lendico\borrowers\repayment\service\PlanGeneratorService.class
+com\lendico\borrowers\repayment\model\PlanRequest.class
+com\lendico\borrowers\repayment\RepaymentServiceApplication.class
+com\lendico\borrowers\repayment\model\Plan$PlanBuilder.class
+com\lendico\borrowers\repayment\service\PlanGeneratorServiceImpl.class
